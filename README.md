@@ -19,11 +19,9 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/QBSPma5jP9ReSAdxKw/giphy.gif" width="30"> from Tomsk.
-- :telescope: I study Frontend development and create my own projects.
+- :telescope: I study IOS development and create my own projects.
 
-- :seedling: I also like to create applications for React Native, but this is a little later)
-
-- :zap: In my free time I read.
+- :zap: In my free time I read and study different technologies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-konstantin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD-%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%B2-689236221)
 
